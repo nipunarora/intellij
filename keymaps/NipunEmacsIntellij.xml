@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="meta v" />
@@ -33,6 +36,9 @@
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
@@ -106,6 +112,17 @@
   <action id="emacsIDEAs.AceJumpCopy.ToParagraphEnd" />
   <action id="emacsIDEAs.AceJumpCopy.ToParagraphStart" />
   <action id="emacsIDEAs.AceJumpCopy.Word" />
+  <action id="emacsIDEAs.AceJumpMove.Block" />
+  <action id="emacsIDEAs.AceJumpMove.Group" />
+  <action id="emacsIDEAs.AceJumpMove.Line" />
+  <action id="emacsIDEAs.AceJumpMove.Paragraph" />
+  <action id="emacsIDEAs.AceJumpMove.Quote" />
+  <action id="emacsIDEAs.AceJumpMove.String" />
+  <action id="emacsIDEAs.AceJumpMove.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpMove.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpMove.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpMove.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpMove.Word" />
   <action id="emacsIDEAs.AceJumpObtainThenReplace.Block" />
   <action id="emacsIDEAs.AceJumpObtainThenReplace.Group" />
   <action id="emacsIDEAs.AceJumpObtainThenReplace.Line" />
