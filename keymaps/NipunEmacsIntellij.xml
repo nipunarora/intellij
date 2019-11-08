@@ -48,9 +48,11 @@
   <action id="EditorKillRingSave" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -97,6 +99,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
+  <action id="RecentLocations" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
