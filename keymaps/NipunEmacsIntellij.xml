@@ -109,6 +109,10 @@
   <action id="VimInsertExitMode">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="com.dubreuia.core.action.ShortcutAction">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl s" />
+  </action>
   <action id="emacsIDEAs.AceJumpCopy.Block" />
   <action id="emacsIDEAs.AceJumpCopy.Group" />
   <action id="emacsIDEAs.AceJumpCopy.Line" />
