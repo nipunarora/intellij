@@ -2,6 +2,5 @@
   <component name="HttpConfigurable">
     <option name="USE_PROXY_PAC" value="true" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="https://sonarqube.go.akamai-access.com/account/" />
   </component>
 </application>
