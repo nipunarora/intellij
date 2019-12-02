@@ -87,12 +87,14 @@
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl o" />
-    <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
