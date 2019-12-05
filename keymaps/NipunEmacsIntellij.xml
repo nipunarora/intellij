@@ -67,6 +67,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -83,6 +86,7 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
