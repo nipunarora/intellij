@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Reactor Notifications loud" displayType="STICKY_BALLOON" />
+  </component>
+</application>
