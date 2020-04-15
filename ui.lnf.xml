@@ -33,7 +33,6 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
