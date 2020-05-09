@@ -1,0 +1,6 @@
+<application>
+  <component name="MavenRunHelper">
+    <option name="resolveWorkspaceArtifacts" value="true" />
+    <option name="useIgnoredPoms" value="true" />
+  </component>
+</application>
