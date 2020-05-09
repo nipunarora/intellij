@@ -32,8 +32,4 @@
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
-  <component name="UISettings">
-    <option name="showTreeIndentGuides" value="true" />
-    <option name="CONTRAST_SCROLLBARS" value="true" />
-  </component>
 </application>
