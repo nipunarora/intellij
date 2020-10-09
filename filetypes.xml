@@ -4,6 +4,7 @@
       <mapping ext="avsc" type="JSON" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="parquet" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
