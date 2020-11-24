@@ -1,10 +1,8 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="squid:S106" />
-        <option value="squid:S1854" />
-      </set>
-    </option>
+    <rules>
+      <Rule active="false" key="squid:S106" />
+      <Rule active="false" key="squid:S1854" />
+    </rules>
   </component>
 </application>
