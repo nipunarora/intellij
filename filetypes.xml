@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="avsc" type="JSON" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="shell" type="PLAIN_TEXT" />
       <mapping pattern="generated" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
