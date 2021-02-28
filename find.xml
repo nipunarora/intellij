@@ -10,5 +10,6 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
