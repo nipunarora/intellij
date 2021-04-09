@@ -33,7 +33,6 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
-    <option name="ANIMATE_WINDOWS" value="false" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
   </component>
 </application>
