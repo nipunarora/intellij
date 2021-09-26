@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="avsc" type="JSON" />
-      <mapping pattern="generated" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="generated" type="PLAIN_TEXT" />
       <mapping pattern="shell" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
