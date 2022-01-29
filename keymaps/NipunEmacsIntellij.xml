@@ -98,9 +98,12 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl meta enter" />
     <mouse-shortcut keystroke="meta button1" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="ManageRecentProjects">
