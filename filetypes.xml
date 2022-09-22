@@ -8,6 +8,8 @@
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping ext="avro" type="Avro" />
+      <removed_mapping ext="parquet" type="Parquet" />
     </extensionMap>
   </component>
 </application>
